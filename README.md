@@ -34,8 +34,7 @@ python-eda-cohort-analysis/
 |
 ├── README.md
 ├── data/
-│   ├── customers.csv
-│   └── orders.csv
+│   └── client_base.xlsx
 |
 ├── notebooks/
 │   └── retention_cohort_analysis_colab.ipynb
